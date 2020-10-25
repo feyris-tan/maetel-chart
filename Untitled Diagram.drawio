@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T06:50:01.958Z" agent="5.0 (Windows)" etag="u5IEqdMOFUCxr70ubISu" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T06:54:16.733Z" agent="5.0 (Windows)" etag="zQoenFpJTivj5PAOwrqD" version="13.8.2" type="github">
   <diagram id="A9vEdWF77vsQXDjpMoYT" name="Page-1">
     <mxGraphModel dx="803" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         <mxCell id="ZEhwApikZOu2tMlTH12N-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-15" target="ZEhwApikZOu2tMlTH12N-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-15" target="ZEhwApikZOu2tMlTH12N-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-15" value="Galaxy Express 999" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -60,10 +63,10 @@
         <mxCell id="ZEhwApikZOu2tMlTH12N-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-19" target="ZEhwApikZOu2tMlTH12N-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZEhwApikZOu2tMlTH12N-19" value="&quot;&lt;label itemprop=&quot;alternateName&quot;&gt;The Galaxy Railways: A Letter from the Abandoned Planet&quot;&lt;/label&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZEhwApikZOu2tMlTH12N-19" value="&quot;&lt;span itemprop=&quot;name&quot;&gt;Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei&lt;/span&gt;&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZEhwApikZOu2tMlTH12N-21" value="&quot;The Galaxy Railways 2&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZEhwApikZOu2tMlTH12N-21" value="&quot;&lt;span itemprop=&quot;name&quot;&gt;Ginga Tetsudou Monogatari: Eien e no Bunkiten&lt;/span&gt;&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-23" target="ZEhwApikZOu2tMlTH12N-15">
@@ -71,6 +74,9 @@
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-23" value="&lt;label itemprop=&quot;alternateName&quot;&gt;Fire Force DNA Sights 999.9&lt;/label&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-25" value="&lt;label itemprop=&quot;alternateName&quot;&gt;&quot;Galaxy Express 999 (1979)&quot;&lt;/label&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
