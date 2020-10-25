@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T06:25:55.658Z" agent="5.0 (Windows)" etag="Go7JwBDmYd_eqoR1CkUD" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T06:42:03.763Z" agent="5.0 (Windows)" etag="Yb61wSMd0Lfar-N8KEjy" version="13.8.2" type="github">
   <diagram id="A9vEdWF77vsQXDjpMoYT" name="Page-1">
     <mxGraphModel dx="803" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZEhwApikZOu2tMlTH12N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-1" target="ZEhwApikZOu2tMlTH12N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-1" target="ZEhwApikZOu2tMlTH12N-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-1" value="Maetel Legend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -23,6 +29,24 @@
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-3" value="&lt;div&gt;Queen Millenia Movie&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-7" value="Harlock Saga" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-9" target="ZEhwApikZOu2tMlTH12N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-9" value="Captain Harlock" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-13" target="ZEhwApikZOu2tMlTH12N-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-13" value="Space Symphony Maetel" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-15" value="Galaxy Express 999" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
