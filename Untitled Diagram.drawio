@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T06:58:52.258Z" agent="5.0 (Windows)" etag="QYKwcQyVXVY2utdBtn3D" version="13.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T09:28:31.930Z" agent="5.0 (Windows)" etag="GwFK9o5mKnokXfxBoH7V" version="13.8.2" type="github">
   <diagram id="A9vEdWF77vsQXDjpMoYT" name="Page-1">
     <mxGraphModel dx="803" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="ZEhwApikZOu2tMlTH12N-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-15" target="ZEhwApikZOu2tMlTH12N-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZEhwApikZOu2tMlTH12N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-15" target="ZEhwApikZOu2tMlTH12N-25">
+        <mxCell id="ZEhwApikZOu2tMlTH12N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-15" target="ZEhwApikZOu2tMlTH12N-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-15" value="Galaxy Express 999" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,6 +78,9 @@
         <mxCell id="ZEhwApikZOu2tMlTH12N-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-25" target="ZEhwApikZOu2tMlTH12N-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-25" target="ZEhwApikZOu2tMlTH12N-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-25" value="&lt;label itemprop=&quot;alternateName&quot;&gt;&quot;Galaxy Express 999 (1979)&quot;&lt;/label&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -86,6 +89,15 @@
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-27" value="&quot;&lt;span itemprop=&quot;name&quot;&gt;Ginga Tetsudou 999: Glass no Clair&lt;/span&gt;&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-31" target="ZEhwApikZOu2tMlTH12N-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-31" value="&quot;Adieu Galaxy Express 999&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZEhwApikZOu2tMlTH12N-33" value="&quot;&lt;label itemprop=&quot;alternateName&quot;&gt;Galaxy Express 999: Eternal Fantasy&quot;&lt;/label&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
