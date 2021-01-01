@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T20:41:47.652Z" agent="5.0 (Windows)" etag="482oG_UcD2Yj3M_j_Xgu" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-01T21:45:06.191Z" agent="5.0 (X11)" etag="kvUfFJjXYZsTUD2o3wQD" version="14.1.7" type="github">
   <diagram id="A9vEdWF77vsQXDjpMoYT" name="Page-1">
-    <mxGraphModel dx="803" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="ZEhwApikZOu2tMlTH12N-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" parent="1" source="ZEhwApikZOu2tMlTH12N-1" target="ZEhwApikZOu2tMlTH12N-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZnpK7fd14ztVkPMygIR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZEhwApikZOu2tMlTH12N-1" target="IZnpK7fd14ztVkPMygIR-1">
+        <mxCell id="IZnpK7fd14ztVkPMygIR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZEhwApikZOu2tMlTH12N-1" target="IZnpK7fd14ztVkPMygIR-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-1" value="Maetel Legend" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -30,7 +30,7 @@
             <mxPoint x="350" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZEhwApikZOu2tMlTH12N-3" value="&lt;div&gt;Queen Millenia Movie&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZEhwApikZOu2tMlTH12N-3" value="&lt;div&gt;Queen Millenia Movie&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-7" value="Harlock Saga" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -54,7 +54,7 @@
         <mxCell id="ZEhwApikZOu2tMlTH12N-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="ZEhwApikZOu2tMlTH12N-15" target="ZEhwApikZOu2tMlTH12N-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZEhwApikZOu2tMlTH12N-15" value="Galaxy Express 999" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZEhwApikZOu2tMlTH12N-15" value="Galaxy Express 999" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="707" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZEhwApikZOu2tMlTH12N-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" parent="1" source="ZEhwApikZOu2tMlTH12N-17" target="ZEhwApikZOu2tMlTH12N-19" edge="1">
@@ -102,7 +102,7 @@
         <mxCell id="ZEhwApikZOu2tMlTH12N-33" value="&quot;&lt;label itemprop=&quot;alternateName&quot;&gt;Galaxy Express 999: Eternal Fantasy&quot;&lt;/label&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1100" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IZnpK7fd14ztVkPMygIR-1" value="Queen Emeraldas" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZnpK7fd14ztVkPMygIR-1" value="Queen Emeraldas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
